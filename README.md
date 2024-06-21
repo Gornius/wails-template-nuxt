@@ -6,8 +6,8 @@ Minimal Nuxt template for Wails. Leverage the developer experience of Nuxt with 
 Wails to create cross-platform GUI apps.
 
 ## Auto-import
-👉 Supports runtime auto-import out of the box
-🫸 Doesn't support bindings auto-import due to the possible function name collisions
+* 👉 Supports runtime auto-import out of the box
+* 🫸 Doesn't support bindings auto-import due to the possible function name collisions
 
 ## Installation
 1. Install go and Wails https://wails.io/docs/gettingstarted/installation 
