@@ -2,7 +2,19 @@
 
 ## About
 
-About your template
+Minimal Nuxt template for Wails. Leverage the developer experience of Nuxt with amazing speed of
+Wails to create cross-platform GUI apps.
+
+## Auto-import
+👉 Supports runtime auto-import out of the box
+🫸 Doesn't support bindings auto-import due to the possible function name collisions
+
+## Installation
+1. Install go and Wails https://wails.io/docs/gettingstarted/installation 
+2. Create a project using
+```
+wails init -n "Your Project Name" -t https://github.com/gornius/wails-template-nuxt
+```
 
 ## Live Development
 
