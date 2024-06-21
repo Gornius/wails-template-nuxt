@@ -1,7 +1,7 @@
 {
-  "name": "Long name",
+  "name": "Minimal Nuxt Wails template",
   "shortname": "wails-template-nuxt",
-  "author": "",
-  "description": "Description of the template",
-  "helpurl": "URL for help with the template, eg homepage"
+  "author": "Gornius (github.com/gornius)",
+  "description": "Minimal Nuxt template for wails with built-in auto-import for Wails runtime",
+  "helpurl": "https://github.com/Gornius/wails-template-nuxt"
 }
